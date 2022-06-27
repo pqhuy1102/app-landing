@@ -352,6 +352,10 @@ section {
   position: relative;
 }
 
+.block{
+  height: 100px;
+}
+
 /* Navbar Styling */
 nav {
   display: flex;
@@ -944,10 +948,8 @@ nav {
   .big_image {
     display: block;
     position: static;
-    height: auto;
     width: 100% !important;
     margin: 0 auto;
-    margin-top: 50px;
   }
 
   .subscribe-form {
@@ -985,6 +987,7 @@ nav {
   }
   #download {
     padding: 50px 0;
+    margin-top: 100px;
   }
   #subscribe {
     padding: 100px 0;
