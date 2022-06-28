@@ -696,10 +696,6 @@ nav {
   margin-top: -125px;
 }
 
-.first-item,
-.last-item {
-  display: flex;
-}
 
 .item-icon1 {
   margin-left: 40px;
