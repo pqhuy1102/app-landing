@@ -495,11 +495,11 @@ nav {
 }
 
 .hero-img {
-  max-width: 28% !important;
+  max-width: 100% !important;
   float: right;
   z-index: 1;
   position: absolute;
-  /* right: 9.375rem; */
+  right: 10rem;
 }
 
 /* Custom Shape Divider */
